@@ -1,0 +1,14 @@
+.enlace{
+    background-color: #f5f5f5;
+    border: none;
+}
+.enlace:hover{
+    border: #006fff ;
+}
+.foot{
+    color: rgb(0, 0, 0);
+}
+
+.parrafo{
+    font-size: 15px;
+}

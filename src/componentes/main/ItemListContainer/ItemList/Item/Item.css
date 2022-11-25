@@ -1,0 +1,14 @@
+video{
+    width: 90%;
+}
+
+.div{
+    width: 100%;
+}
+
+.div-preguntas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}

@@ -1,0 +1,30 @@
+h1:hover,h3:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+.item{
+    width: 100%;
+}
+
+
+.cards{
+    display: flex;
+    justify-content: center; 
+    align-content: center;
+    background-color:  hsl(215, 48%, 23%);
+    width: 70%;
+    margin: 30px;
+    margin-left: 150px;
+}
+
+.titulo{
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.transcripcion{
+    width: 60rem;
+    height: 20rem;
+    overflow-y: scroll;
+    margin: 30px;
+}
