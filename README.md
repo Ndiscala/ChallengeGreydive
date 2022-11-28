@@ -3,7 +3,7 @@
 Proyecto realizado para el challenge greydive.
 
 # LINK:
-## https://greydivechallenge.netlify.app/cliente/viamo
+## https://greydivechallenge.netlify.app/
 
 
 
