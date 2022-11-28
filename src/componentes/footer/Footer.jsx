@@ -15,7 +15,6 @@ const Footer = () => {
                 // style={{backgroundColor: '#263574'}}
                 href="https://www.greydive.com/"
                 role="button"
-                target="_blank"
                 ><i className="bi bi-globe2 fs-3 foot"></i>
                 </a>
 
@@ -27,7 +26,6 @@ const Footer = () => {
                 // style={{backgroundColor: '#263574'}}
                 href="https://ndiscala.github.io/"
                 role="button"
-                target="_blank"
                 ><i className="bi bi-person-workspace fs-3 foot"></i>
                 </a>
 
@@ -38,7 +36,6 @@ const Footer = () => {
                 // style={{backgroundColor: '#263574'}}
                 href="https://www.linkedin.com/in/ndiscala/"
                 role="button"
-                target="_blank"
                 ><i className="bi bi-linkedin fs-3 foot"></i>
                 </a>
             {/* <!-- Github --> */}
@@ -47,7 +44,7 @@ const Footer = () => {
                 // style={{backgroundColor: '#263574'}}               
                 href="https://github.com/Ndiscala"
                 role="button"
-                target="_blank"
+
                 ><i className="bi bi-github fs-3 foot"></i>
                 </a>
             
